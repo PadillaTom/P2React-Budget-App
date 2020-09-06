@@ -3,14 +3,11 @@
 
 Most important features applied:
   - Npx create-react-app
-  - API from: https://www.thecocktaildb.com/
-  - React Router Dom
+  - React Icons
+  - UUID
   - React Functional Based Components
-  - Hooks / HTTP Requests / UseEffect / UseRef
+  - Hooks / UseEffect 
   
 
-Take a Look -->
-
-Website: https://p3-testportfolio.netlify.app/
 
 
